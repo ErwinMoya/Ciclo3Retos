@@ -1,7 +1,6 @@
 package com.eduar.misiontic.games2.controller;
 
 
-import com.eduar.misiontic.games2.entities.Admin;
 import com.eduar.misiontic.games2.entities.Message;
 import com.eduar.misiontic.games2.service.MessageService;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,9 +1,7 @@
 package com.eduar.misiontic.games2.repository;
 
 import com.eduar.misiontic.games2.entities.Admin;
-import com.eduar.misiontic.games2.entities.Client;
 import com.eduar.misiontic.games2.repository.crudRepository.AdminCrudRepository;
-import com.eduar.misiontic.games2.repository.crudRepository.ClientCrudRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
